@@ -1,0 +1,90 @@
+id,name,type,sort,ranking,points,gender,alive,genre
+drak,Drake,1,1,1,13174,2,1,4
+doja,Doja Cat,1,1,3,11507,1,1,4
+morg,Morgan Wallen,1,1,4,8858,2,1,8
+lilb,Lil Baby,1,1,5,8665,2,1,4
+futu,Future,1,1,6,8288,2,1,4
+just,Justin Bieber,1,1,8,7534,1,1,1
+tayl,Taylor Swift,1,1,11,6398,1,1,1
+jack,Jack Harlow,1,1,13,5106,2,1,4
+post,Post Malone,1,1,14,4950,2,1,4
+liln,Lil Nas X,1,1,15,4750,2,1,4
+lild,Lil Durk,1,1,16,4562,2,1,4
+sza,SZA,1,1,17,4444,1,1,6
+gunn,Gunna,1,20,4130,3910,2,1,4
+step,Stephanie Beatriz,1,1,23,3745,1,1,1
+beyo,Beyonce,1,1,24,3568,1,1,1
+koda,Kodak Black,1,1,25,3484,2,1,4
+latt,Latto,1,1,26,3376,1,1,4
+bail,Bailey Zimmermann,1,1,27,3350,2,1,8
+lizz,Lizzo,1,1,28,3245,1,1,4
+luke,Luke Combs,1,1,30,3032,2,1,8
+imag,Imagine Dragons,1,2,31,2927,2,1,3
+cole,Cole Swindell,1,1,32,2695,2,1,8
+kane,Kane Brown,1,1,33,2529,2,1,1
+walk,Walker Hayes,1,1,35,2498,2,1,8
+jid,J.I.D,1,1,36,2425,2,1,4
+nick,Nicki Minaj,1,1,37,2407,1,1,4
+dian,Diane Guerrero,1,1,38,2380,1,1,1
+stev,Steve Lacy,1,1,39,2371,2,1,1
+kend,Kendrick Lamar,1,1,40,2361,2,1,4
+zach,Zach Bryan,1,1,42,2220,2,1,8
+niyo,Nicky Youre,1,1,44,2134,2,1,1
+dazy,Dazy,1,8,43,2134,2,1,1
+yoth,Young Thug,1,1,45,2081,2,1,4
+embe,Em Beihold,1,1,46,1917,1,1,1
+oner,OneRepublic,1,2,47,1895,2,1,1
+adas,Adassa,1,1,48,1860,1,1,10
+aria,Ariana Grande,1,1,49,1850,1,1,1
+gayl,Gayle,1,1,50,1815,1,1,3
+charl,Charlie Puth,1,1,52,1799,2,1,1
+jord,Jordan Davis,1,1,53,1798,2,1,8
+rhen,Rhenzy Feliz,1,1,54,1714,2,1,1
+univ,Universal Music Group,2,3,NA,NA,NA,NA,NA
+rca,RCA Records,2,4,NA,NA,NA,NA,NA
+sony,Sony Music Entertainment,2,3,NA,NA,NA,NA,NA
+bigl,Big Loud Records,2,5,NA,NA,NA,NA,NA
+ampe,AMPED,2,7,NA,NA,NA,NA,NA
+qual,Quality Control Music,2,5,NA,NA,NA,1,NA
+moto,Motown and Caroline,2,4,NA,NA,NA,1,NA
+capi,Capitol Music Group,2,4,NA,NA,NA,1,NA
+free,Freebandz,2,4,NA,NA,NA,NA,NA
+epic,Epic Records,2,4,NA,NA,NA,NA,NA
+rbmj,RBMJ,2,4,NA,NA,NA,NA,NA
+defj,Def Jam Recordings,0,4,NA,NA,NA,NA,NA
+repu,republic records,2,4,NA,NA,NA,NA,NA
+gene,Generation Now,2,4,NA,NA,NA,NA,NA
+atla,Atlantic Records,2,4,NA,NA,NA,NA,NA
+warn,Warner Music,2,3,NA,NA,NA,NA,NA
+isla,Island Def Jam Records,2,4,NA,NA,NA,NA,NA
+merc,Mercury Records,2,4,NA,NA,NA,NA,NA
+colu,Columbia Records,2,4,NA,NA,NA,NA,NA
+alam,Alamo Records,2,4,NA,NA,NA,NA,NA
+topd,Top Dawg Entertainment,2,5,NA,NA,NA,NA,NA
+thre,300 Entertainment,2,4,NA,NA,NA,NA,NA
+youn,Young Stoner Life Records,2,4,NA,NA,NA,NA,NA
+walt,Walt Disney Records,2,4,NA,NA,NA,NA,NA
+snip,Sniper Gang,2,5,NA,NA,NA,NA,NA
+stre,Streamcut,2,5,NA,NA,NA,NA,NA
+wana,Warner Music Nashville,2,4,NA,NA,NA,NA,NA
+elek,Elektra Records,2,4,NA,NA,NA,NA,NA
+tota,Totally Gross National Product,2,5,NA,NA,NA,NA,NA
+nice,Nice Life Recording Company,2,4,NA,NA,NA,NA,NA
+bigg,Big Grrrl Small World,2,5,NA,NA,NA,NA,NA
+rive,River House Artists,2,5,NA,NA,NA,NA,NA
+sowa,Sony Music Nashville,2,4,NA,NA,NA,NA,NA
+kidi,Kidinakorner,2,4,NA,NA,NA,NA,NA
+inte,Interscope Geffen A&M Records,2,4,NA,NA,NA,NA,NA
+zone,Zone 4,2,4,NA,NA,NA,NA,NA
+rcan,RCA Records Nashville,2,4,NA,NA,NA,NA,NA
+monu,Monument Records,2,4,NA,NA,NA,NA,NA
+drea,Dreamville Records,2,4,NA,NA,NA,NA,NA
+yomo,Young Money Entertainment,2,4,NA,NA,NA,NA,NA
+cash,Cash Money Records,2,4,NA,NA,NA,NA,NA
+lm,LM Records,2,5,NA,NA,NA,NA,NA
+afte,Aftermath Entertainment,2,4,NA,NA,NA,NA,NA
+thir,Thirty Knots,2,5,NA,NA,NA,NA,NA
+moon,Moon Projects Record Label,2,4,NA,NA,NA,NA,NA
+mosl,Mosley Music Group,2,4,NA,NA,NA,NA,NA
+arth,Arthouse Entertainment,2,5,NA,NA,NA,NA,NA
+unna,Universal Music Group Nashville,2,4,NA,NA,NA,NA,NA
